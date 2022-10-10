@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<!-- saved from url=(0019)https://mc.163.com/ -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		
+		<title>CA炸图辅助官网——针对创造的老牌辅助</title>
+	<meta name="from" content="git:MC/mc-zt-fab-20171220">
+	<meta name="author" content="网易，CA Inc.">
+	<meta name="copyright" content="网易，CA Inc.">
+	<meta name="designer" content="Kevin,yujinfa">
+	<meta name="editor" content="luanxinyu,wangshan">
+	<meta name="front-end technicist" content="limengshi">
+	<meta name="pmid" content="24960">
+		<meta name="keywords" content="CA炸图辅助">
+		<meta name="description" content="CA炸图辅助你想用的，这里都有">
+
+		<!--ignore-->
+		<link rel="stylesheet" href="./我的世界Minecraft中国版官方网站——你想玩的，这里都有_files/galleryV2_e945e2f.css">
+		<link rel="stylesheet" href="./我的世界Minecraft中国版官方网站——你想玩的，这里都有_files/index_3a11b33.css">
+	<link type="text/css" rel="stylesheet" href="./我的世界Minecraft中国版官方网站——你想玩的，这里都有_files/fur-success_ead0c8b.css"><link type="text/css" rel="stylesheet" href="./我的世界Minecraft中国版官方网站——你想玩的，这里都有_files/share.v5_f45881c.css"><link type="text/css" rel="stylesheet" href="./我的世界Minecraft中国版官方网站——你想玩的，这里都有_files/register_f224f5b.css"><style type="text/css">.adbase-ctn{background:url(https://nie.res.netease.com/comm/js/nie/util/img/loading.png) center center no-repeat;}</style><style type="text/css">#NIE-topBar .hide,#NIE-topBar-include .hide{display:none!important}.NIE-topBar-logo,.NIE-topBar-arrIcon i,#NIE-topBar-menu span,.NIE-topBar-hot,.NIE-topBar-1st,.NIE-topBar-new,.NIE-topBar-btn{background:url(https://nie.res.netease.com/comm/nie.topBar/images/sprite-w_dd519f4.png) no-repeat}.NIE-topBar-arrIcon{position:relative;top:4px;width:16px;height:16px;display:inline-block;background-color:#fff;overflow:hidden}.NIE-topBar-arrIcon i{width:9px;height:4px;float:left;margin:6px 0 0 4px;background-position:-103px -101px;display:inline-block;-webkit-transition:all .2s ease 0s;transition:all .2s ease 0s}#NIE-topBar,#NIE-topBar-include{position:relative;z-index:9999;min-width:1260px;height:55px;background:#333;line-height:24px;font-family:"Microsoft YaHei",simSun,"Lucida Grande","Lucida Sans Unicode",Arial}#NIE-topBar *,#NIE-topBar-include *{font-size:12px;font-style:normal}#NIE-topBar a,#NIE-topBar-include a{color:#999;text-decoration:none}#NIE-topBar a:hover,#NIE-topBar-include a:hover{color:#fff}#NIE-topBar ul,#NIE-topBar li,#NIE-topBar-include ul,#NIE-topBar-include li{margin:0;padding:0;float:left}.NIE-topBar-main{position:relative;z-index:9999;width:100%;height:54px;margin:auto}.NIE-topBar-bottom{display:block;width:100%;height:0;overflow:hidden;border-bottom:1px solid #d8d8d8}.NIE-topBar-logo{width:133px;height:44px;display:inline-block;margin-top:6px;background:url(https://nie.res.netease.com/comm/nie.topBar/images/logo_b5525b7.png) no-repeat;position:absolute;left:50%;margin-left:-30px;margin-top:5px}#NIE-topBar-news{position:absolute;z-index:13;width:420px;height:54px;left:180px;padding-top:0;overflow:hidden;display:block}#NIE-topBar-news.NIE-topBar-news-hover{height:250px;overflow:visible;border-color:#1f1f1f}#NIE-topBar-news a{width:960px;display:block;height:0;overflow:hidden;z-index:1;-webkit-box-shadow:0 2px 4px rgba(0,0,0,.2);-o-box-shadow:0 2px 4px rgba(0,0,0,.2);-moz-box-shadow:0 2px 4px rgba(0,0,0,.2);box-shadow:0 2px 4px rgba(0,0,0,.2)}#NIE-topBar-news-close{position:absolute;top:63px;right:-380px;display:block;width:32px;height:32px;overflow:hidden;background:url(https://nie.res.netease.com/comm/nie.topBar/images/sprite-w_dd519f4.png) no-repeat -9999px -9999px;text-indent:-9999px;z-index:2}#NIE-topBar-news.NIE-topBar-news-hover .NIE-topBar-abc-s{visibility:hidden}#NIE-topBar-news.NIE-topBar-news-hover a{position:absolute;z-index:2;left:0;top:55px;height:auto}#NIE-topBar-news.NIE-topBar-news-hover a img{display:block}.NIE-topBar-mid{position:absolute;z-index:2;right:230px;width:385px;text-align:right}#NIE-topBar .NIE-topBar-mid a,#NIE-topBar-include .NIE-topBar-mid a{line-height:40px;padding:0 12px;color:#fff;display:inline-block}#NIE-topBar .NIE-topBar-mid a:hover,#NIE-topBar-include .NIE-topBar-mid a:hover{color:#ca0b0b}#NIE-topBar-menu{position:absolute;z-index:1;top:55px;left:0;color:#999;background-color:#fff;width:100%;height:0;overflow:hidden;-webkit-transition:height .3s ease 0s;-o-transition:height .3s ease 0s;-moz-transition:height .3s ease 0s;transition:height .3s ease 0s}#NIE-topBar-menu span{position:absolute;width:108px;padding:8px 0 12px;height:20px;line-height:14px;right:106px;background-position:0 -28px;background-repeat:repeat-x;padding-left:15px;color:#fff;display:inline-block;overflow:hidden}#NIE-topBar-menu .NIE-table{position:absolute;top:0;left:50%;margin-left:-630px;background:#262626;border-collapse:collapse;overflow:hidden;width:1260px}#NIE-topBar-menu .NIE-table a{width:115px;margin-left:6px;line-height:24px;display:inline-block;font-weight:400;text-align:left}#NIE-topBar-menu .NIE-table a.long{width:125px}#NIE-topBar-menu .NIE-table ul{list-style:none}#NIE-topBar-menu .NIE-table .NIE-nav{width:100%;position:relative}#NIE-topBar-menu .NIE-table .NIE-nav li{width:110px;float:left;border-right:1px solid #eee;vertical-align:top}#NIE-topBar-menu .NIE-table .NIE-nav .mobi{position:absolute;left:300px;-webkit-transition:all .3s ease-out}#NIE-topBar-menu .NIE-table b{line-height:39px;color:#bc2e2e;display:block;width:100%;height:39px;font-size:14px;text-indent:20px;background:#f7f7f8;overflow:hidden;clear:both}#NIE-topBar-menu b i{margin-left:5px;padding:2px 4px;color:#9b9b9b;font-style:normal;background:#111;display:inline}#NIE-topBar-menu .NIE-list{float:left;overflow:hidden;width:100%;height:445px}#NIE-topBar-menu .NIE-list li{border-right:1px solid #eee;height:435px;float:left;padding:10px 0 0 14px;overflow:hidden}#NIE-topBar-menu .NIE-list .news{position:absolute;background:#fdfefe;left:446px;-webkit-transition:all .3s ease-out;top:39px;border:0}#NIE-topBar-menu .NIE-list .hot{position:absolute;background:#fdfefe;left:300px;-webkit-transition:all .3s ease-out;top:39px;z-index:3}#NIE-topBar-menu .NIE-list .hot a{width:121px}#NIE-topBar-menu .NIE-list .short{-webkit-transition:all .3s ease-out}#NIE-topBar-menu .NIE-list .short a{width:105px}.w1680 #NIE-topBar-menu .NIE-list .news div div{margin-right:8px}#NIE-topBar-menu .NIE-list .news .long-news{width:133px;float:left}#NIE-topBar-menu .NIE-list .news .long-news a{width:125px}#NIE-topBar-menu .NIE-list .news .short-news{float:left;width:106px}#NIE-topBar-menu .NIE-list .news .mini-news{width:90px;margin-right:0;float:left}#NIE-topBar-menu .NIE-list .news .mini-news a{width:82px}#NIE-topBar-menu .moreAni .NIE-list .news{left:334px;width:780px!important;-webkit-transition:all .3s ease-out;z-index:3}#NIE-topBar-menu .moreAni .NIE-list .hot{left:185px;border-left:1px solid #eee;box-shadow:-1px 0 1px #eee;-webkit-transition:all .3s ease-out}#NIE-topBar-menu .moreAni .NIE-nav .mobi{left:185px;width:942px!important;border-left:1px solid #eee;box-shadow:-1px 0 1px #eee;-webkit-transition:all .3s ease-out}#NIE-topBar-menu .NIE-list .NIE-topBar-more{width:20px!important;height:95px;height:92px\9;display:block;position:absolute;right:0;top:124px;font-size:12px;color:#fff;background:#bc2e2e;padding-left:10px;line-height:14px;padding-top:7px;border-top-left-radius:2px;border-bottom-left-radius:2px;text-align:left}#NIE-topBar-menu .NIE-list .NIE-topBar-more:hover{opacity:.8}#NIE-topBar-menu .moreAni .NIE-topBar-more,#NIE-topBar-menu .NIE-topBar-more.open{width:21px;height:23px;border-radius:2px;right:9px;top:163px;padding-left:4px;padding-top:2px;height:20px;height:18px\9}#NIE-topBar-menu .NIE-table a em{font-weight:400;display:block;line-height:24px;text-align:left}.NIE-topBar-1st{background-position:right -267px}.NIE-topBar-hot{background-position:right -144px}.NIE-topBar-new{background-position:right -206px}#NIE-topBar-menu.NIE-topBar-menu-hover .NIE-table{display:block}#NIE-topBar-menu.NIE-topBar-menu-hover{height:500px;opacity:.9;-webkit-transition:height .4s ease 0s;-o-transition:height .4s ease 0s;-moz-transition:height .4s ease 0s;transition:height .4s ease 0s}a.NIE-topBar-btn{width:75px!important;height:18px;line-height:18px!important;margin:5px 0;display:inline-block;padding-left:0!important;background-position:0 -338px;text-indent:25px;color:#bc3030!important}a.NIE-topBar-btn:hover{}.NIE-topBar-ad{height:40px;left:50%}#NIE-topBar-news{height:54px}#NIE-topBar .NIE-topBar-menu-hover,#NIE-topBar-include .NIE-topBar-menu-hover{z-index:8}.NIE-topBar-ad-big{position:absolute;top:0;left:0;z-index:10;height:0;overflow:hidden;text-align:center}#NIE-topBar-menu{z-index:7}.NIE-topBar-mid{z-index:12;width:250px;right:230px;width:536px}#NIE-topBar,#NIE-topBar-include{height:55px;background:#fff}#NIE-topBar-menu .NIE-table{top:0;background:#fdfefe;border-top:1px solid #ececec;margin:0 0 0 -630px}#NIE-topBar-menu span{background:0 0;color:#bc2e2e}#NIE-topBar-menu .NIE-table{display:none}#NIE-topBar-menu .NIE-table .last_td,#NIE-topBar-menu .NIE-table .last_th{border-right:0}#NIE-topBar a,#NIE-topBar-include a{color:#626262}#NIE-topBar-menu b i{background-color:#fbfbfb;color:#bc2e2e}#NIE-topBar-menu p{padding:0;margin:0;margin-left:6px;line-height:24px;margin-bottom:4px;font-weight:700;color:#626262}#NIE-topBar a:hover,#NIE-topBar-include a:hover{color:#bc2e2e}#NIE-topBar-menu.NIE-topBar-menu-hover{opacity:.95}#NIE-topBar-menu .NIE-table *{font-size:12px}#NIE-topBar-menu.NIE-topBar-menu-hover span{border-bottom:3px solid #bc2e2e;background-color:#F3F3F3;background-image:-webkit-linear-gradient(top,#F3F3F3 0,#FEFEFE 52px);background-image:linear-gradient(top,#F3F3F3 0,#FEFEFE 52px)}#NIE-topBar-menu span{height:25px;height:26px\0;width:108px;padding-top:15px;padding-top:14px\0;transition:background ease-in-out .33s;z-index:20}#NIE-topBar .NIE-topBar-mid a,#NIE-topBar-include .NIE-topBar-mid a{color:#333;line-height:52px;transition:background ease-in-out .33s;*line-height:55px}#NIE-topBar .NIE-topBar-mid a:hover,#NIE-topBar-include .NIE-topBar-mid a:hover{color:#bc2e2e!important;border-bottom:3px solid #bc2e2e;background-color:#F3F3F3;background-image:-webkit-linear-gradient(top,#F3F3F3 0,#FEFEFE 52px);background-image:linear-gradient(top,#F3F3F3 0,#FEFEFE 52px);*border-bottom:0}.NIE-topBar-menu-btn{position:absolute;left:0;top:0;display:block;width:179px;height:54px;overflow:hidden;background-color:#cf1132;color:#fff!important;font-size:12px;cursor:default;text-align:center;line-height:54px}.NIE-topBar-menu-btn:hover{background-color:#ce2845}.NIE-topBar-menu-btn i{display:inline-block;width:25px;height:11px;background:url(https://nie.res.netease.com/comm/nie.topBar/images/sprite-w_dd519f4.png) -90px -306px no-repeat;margin-right:8px}.NIE-topBar-right{position:absolute;right:130px;top:0;display:block;width:138px;height:54px;overflow:hidden;z-index:9;border-left:1px solid #dadada}.NIE-topBar-right.normal{right:0}.NIE-topBar-right a{color:#333!important;width:100%;text-align:center;display:inline-block;float:left;line-height:52px;transition:background ease-in-out .33s;-webkit-transition:background ease-in-out .33s}.NIE-topBar-right a:hover{color:#bc2e2e!important;border-bottom:1px solid #bc2e2e;background-color:#F3F3F3;background-image:-webkit-linear-gradient(top,#F3F3F3 0,#FEFEFE 52px);background-image:linear-gradient(top,#F3F3F3 0,#FEFEFE 52px);*border-bottom:0}.NIE-topBar-right a.fadeUp{opacity:0;-webkit-transform:translate3d(0,-70%,0);-webkit-transition:all ease-in-out .5s;transform:translate3d(0,-70%,0);transition:all ease-in-out .5s}.NIE-topBar-right a.none{opacity:0;-webkit-transform:translate3d(0,70%,0);transform:translate3d(0,70%,0)}.NIE-topBar-right a.fadeUp2{opacity:1;-webkit-transform:translate3d(0,0,0);-webkit-transition:all ease-in-out .5s;transform:translate3d(0,0,0);transition:all ease-in-out .5s}.NIE-topBar-recommend{position:absolute;right:0;top:0;display:block;width:129px;height:54px;overflow:hidden;border-left:1px solid #dadada}.NIE-topBar-recommend a{display:block;width:100%;height:54px;line-height:54px;text-align:center;color:#414141;font-size:12px}.NIE-topBar-recommend a i{display:inline-block;width:17px;height:20px;background:url(https://nie.res.netease.com/comm/nie.topBar/images/sprite-w_dd519f4.png) -81px -343px no-repeat;position:relative;top:5px;margin-right:10px}.NIE-topBar-recommend a:hover{color:#cf1132;height:53px;border-bottom:1px solid #cf1132}.NIE-topBar-recommend a:hover i{background:url(https://nie.res.netease.com/comm/nie.topBar/images/sprite-w_dd519f4.png) -98px -343px no-repeat}.NIE-topBar-recommend-ctn{width:100%;min-width:1260px;height:0;background-color:#fff;position:absolute;top:55px;left:0;overflow:hidden;-webkit-transition:height .4s ease 0s;-o-transition:height .4s ease 0s;-moz-transition:height .4s ease 0s;transition:height .4s ease 0s}.NIE-topBar-recommend-ctn.hover{height:378px}.NIE-topBar-recommend-ctn .NIE-game-list{list-style:none;position:absolute;width:1116px;left:50%;margin-left:-550px!important;top:28px}.NIE-topBar-recommend-ctn .NIE-game-list li{display:block;float:left;width:170px;height:241px;margin-right:16px!important}.NIE-topBar-recommend-ctn .NIE-game-list li img{display:block;float:left;width:100%;height:185px;background-color:#d8d8d8}.NIE-topBar-recommend-ctn .NIE-game-list .NIE-game-name{float:left;width:100%;height:50px;padding-top:6px;background:url(https://nie.res.netease.com/comm/nie.topBar/images/sprite-w_dd519f4.png) 0 -362px #cf1132 no-repeat}.NIE-topBar-recommend-ctn .NIE-game-list .NIE-game-name .game-title{font-size:12px;color:#fff;display:block;float:left;width:100%;text-align:center;height:16px;line-height:14px;margin-top:3px}.NIE-topBar-recommend-ctn .NIE-game-foot{position:absolute;width:1100px;left:50%;margin-left:-550px!important;top:285px}.NIE-topBar-recommend-ctn .NIE-game-foot .prefix{color:#d42846;display:inline-block;padding-left:5px;border-left:1px solid #d42846;height:18px;line-height:18px}.NIE-topBar-recommend-ctn .NIE-game-btn{position:absolute;left:50%;top:320px;margin-left:-217px}.NIE-topBar-recommend-ctn .NIE-game-btn a{display:block;float:left;width:115px;height:28px;border:1px solid #cbcbcb;border-radius:4px;text-align:center;line-height:28px;font-size:12px;color:#696969;-moz-box-shadow:0 0 1px #777;-webkit-box-shadow:0 0 1px #777;box-shadow:0 0 1px #777;margin-right:42px}.NIE-topBar-recommend-ctn .NIE-game-btn a i{display:inline-block;position:relative;width:13px;height:13px;top:2px;*top:0;margin-right:6px;background-image:url(https://nie.res.netease.com/comm/nie.topBar/images/sprite-w_dd519f4.png)}.NIE-topBar-recommend-ctn .NIE-game-btn .icon-zc{background-position:0 -443px}.NIE-topBar-recommend-ctn .NIE-game-btn .icon-cz{background-position:-19px -443px}.NIE-topBar-recommend-ctn .NIE-game-btn .icon-kf{background-position:-36px -443px}</style><style type="text/css">.adbase-ctn{background:url(https://nie.res.netease.com/comm/js/nie/util/img/loading.png) center center no-repeat;}</style></head>
+
+	<body>
+		<!--[if lt IE 7]>
+<div style="position:absoulute;left:0;top:0;width:100%;height:50px;background:rgb(255,255,233);color:rgb(30,84,148);border-bottom:1px solid rgb(230,230,198);text-align:center;line-height:50px;font-size:12px;">您使用的浏览器版本过低，可能会影响到您浏览本网页，建议您升级您的浏览器。</div>
+<![endif]-->
+
+		<!--SEO start-->
+		<!-- <h1 style="display:none;">我的世界</h1> -->
+		<!--SEO end-->
+
+		<!--Start share-->
+<div id="share_content" style="display:none">
+     <h1 style="display: none">我的世界Minecraft中国版官方网站——你想玩的，这里都有</h1>
+     <div id="share_title" pub-name="分享文案">《我的世界》PC Java版不删档测试今日开启！</div>
+     <div id="share_url" pub-name="分享地址"></div>
+     <div id="share_desc" pub-name="分享文本">网易游戏代理的《我的世界》(Minecraft)沙盒游戏，你想玩的,这里都有！这里汇聚了全球优秀创造者以及海量玩法内容。赶紧和你的小伙伴一起开启冒险吧！</div>
+     <img id="share_pic" src="./我的世界Minecraft中国版官方网站——你想玩的，这里都有_files/logo.png" data-src="https://webinput.nie.netease.com/img/mc/logo.png" pub-name="分享图片">
+</div>
+<!--End share-->
+ 
+
+			<div class="header" style="height: 1019px;">
+				<!-- <video class="bg-video" src="https://nie.v.netease.com/nie/2017/0830/64a1a3ae100f830b48c134d702f0d3a0qt.mp4" poster="img/poster.jpg" autoplay loop></video> -->
+				<!-- <div class="bg-video-cover"></div> -->
+				<!--<div id="flash-wrap"></div>-->
+				<div class="dao" id="scene" data-mode="cursor" style="transform: translate3d(0px, 0px, 0px); transform-style: preserve-3d; backface-visibility: hidden;">
+			        <span data-depth="0.2" class="layer" style="position: relative; display: block; left: 0px; top: 0px; transform: translate3d(0px, 0px, 0px); transform-style: preserve-3d; backface-visibility: hidden;">
+			            <img src="./我的世界Minecraft中国版官方网站——你想玩的，这里都有_files/kv_dao_ad842f4.png" alt="岛">
+			        </span>
+			    </div>
+
+			    <div class="zs1"></div>
+			    <div class="zs2"></div>
+				<div class="header_box">
+					<div class="lt">
+						<a class="logo" href="https://mc.163.com/index.html" target="_blank" title="logo">
+							<img src="./我的世界Minecraft中国版官方网站——你想玩的，这里都有_files/logo.png" alt="logo">
+						</a>
+						<img class="slogan" src="./我的世界Minecraft中国版官方网站——你想玩的，这里都有_files/slogan_5bf6ff1.png" alt="slogan">
+					
+								<div class="buttons">
+									<a class="link-apple NIE-button-ios" target="_blank" title="App Store下载" href="https://adl.netease.com/d/g/mc/c/gwnew?type=ios">App Store 下载</a>
+									<a class="link-android NIE-button-android" target="_blank" title="安卓版下载" href="https://adl.netease.com/d/g/mc/c/gwnew?type=android">安卓版下载</a>
+								</div>
+								<div class="btn-qr-tips"></div>
+								<p class="btn-register">注册网易通行证</p>
+							</div>
+							<div class="video-section">
+								<a class="video-btn" href="javascript:;" title="视频"></a>
+								<span class="video_place"></span>
+							</div>
+						</div>
+						
+					</div>
+					<div class="rt">
+						<a class="btn-gw" href="https://mc.163.com/index.html" target="_blank" title="进入官网"></a>
+						<div id="NIE-share" style="display: block;">
+							<div class="share-txt">
+								<div class="iconShare"></div>
+							</div>
+						<div class="NIE-share NIE-share1"><span class="NIE-share-txt">分享到:</span><ul class="NIE-share-iconBtn"><li><a class="iconfont NIE-share-btn23" style="" href="javascript:;" title="分享到微信二维码" target="_self"></a></li><li><a class="iconfont NIE-share-btn2" style="" href="javascript:;" title="分享到新浪微博" target="_self"></a></li><li><a class="iconfont NIE-share-btn1" style="" href="javascript:;" title="分享到QQ空间" target="_self"></a></li><li><a class="iconfont NIE-share-btn24" style="" href="javascript:;" title="分享到QQ好友" target="_self"></a></li><li><a class="iconfont morebtn" href="javascript:void(0)" style="display: none;"></a></li></ul><div class="NIE-share-clearfix"></div><div class="NIE-share-more"><ul></ul></div></div><div class="NIE-share-clearfix"></div></div>
+                        <div class="icon-ds" href="javascript:;">
+                            <img src="./我的世界Minecraft中国版官方网站——你想玩的，这里都有_files/qrcode_ds_8192ac4.png" alt="qrcode_ds">
+                        </div>
+					</div>
+				</div>
+			</div>
+
+			<div class="carousel">
+				<div class="wrapper">
+					<div class="title"></div>
+					<div class="outer_wrap">
+						<div class="gallery_container" style="width: 2826px; height: 560px;">
+							<div class="gallery_item" style="margin-left: -471px; transition-duration: 500ms; transform: translate3d(0px, 0px, -8000px) rotateX(0deg) rotateY(0deg);">
+								<img src="./我的世界Minecraft中国版官方网站——你想玩的，这里都有_files/p1_69f365f.jpg" alt="banner">
+								<span></span>
+							</div>
+							<div class="gallery_item" style="margin-left: -471px; transition-duration: 500ms; transform: translate3d(0px, 0px, -8000px) rotateX(0deg) rotateY(0deg);">
+								<img src="./我的世界Minecraft中国版官方网站——你想玩的，这里都有_files/p2_f6d214e.jpg" alt="banner">
+								<span></span>
+							</div>
+							<div class="gallery_item gallery_left_middle" style="margin-left: -471px; transition-duration: 500ms; transform: translate3d(-642px, 0px, -1000px) rotateX(0deg) rotateY(0deg);">
+								<img src="./我的世界Minecraft中国版官方网站——你想玩的，这里都有_files/p3_cf95941.jpg" alt="banner">
+								<span></span>
+							</div>
+							<div class="gallery_item gallery_active" style="margin-left: -471px; transition-duration: 500ms; transform: translate3d(0px, 0px, 0px) rotateX(0deg) rotateY(0deg);">
+								<img src="./我的世界Minecraft中国版官方网站——你想玩的，这里都有_files/p4_fad3721.jpg" alt="banner">
+								<span></span>
+							</div>
+							<div class="gallery_item gallery_right_middle" style="margin-left: -471px; transition-duration: 500ms; transform: translate3d(642px, 0px, -1000px) rotateX(0deg) rotateY(0deg);">
+								<img src="./我的世界Minecraft中国版官方网站——你想玩的，这里都有_files/p5_918dd63.jpg" alt="banner">
+								<span></span>
+							</div>
+							<div class="gallery_item" style="margin-left: -471px; transition-duration: 500ms; transform: translate3d(0px, 0px, -8000px) rotateX(0deg) rotateY(0deg);">
+								<img src="./我的世界Minecraft中国版官方网站——你想玩的，这里都有_files/p6_80caa35.jpg" alt="banner">
+								<span></span>
+							</div>
+							<div class="gallery_item" style="margin-left: -471px; transition-duration: 500ms; transform: translate3d(0px, 0px, -8000px) rotateX(0deg) rotateY(0deg);">
+								<img src="./我的世界Minecraft中国版官方网站——你想玩的，这里都有_files/p7_323bfd4.jpg" alt="banner">
+								<span></span>
+							</div>
+							<div class="gallery_item" style="margin-left: -471px; transition-duration: 500ms; transform: translate3d(0px, 0px, -8000px) rotateX(0deg) rotateY(0deg);">
+								<img src="./我的世界Minecraft中国版官方网站——你想玩的，这里都有_files/p8_96dc16e.jpg" alt="banner">
+								<span></span>
+							</div>
+							<div class="gallery_item" style="margin-left: -471px; transition-duration: 500ms; transform: translate3d(0px, 0px, -8000px) rotateX(0deg) rotateY(0deg);">
+								<img src="./我的世界Minecraft中国版官方网站——你想玩的，这里都有_files/p9_df31733.jpg" alt="banner">
+								<span></span>
+							</div>
+							
+						</div>
+						<ul class="gallery_pagination">
+							<li class="pagination_btn">0</li>
+							<li class="pagination_btn">1</li>
+							<li class="pagination_btn">2</li>
+							<li class="pagination_btn active">3</li>
+							<li class="pagination_btn">4</li>
+							<li class="pagination_btn">5</li>
+				            <li class="pagination_btn">6</li>
+				            <li class="pagination_btn">7</li>
+				            <li class="pagination_btn">8</li>
+							<!-- <li class="pagination_btn">9</li> -->
+						</ul>
+						<a href="javascript:void(0);" class="gallery_prev btns prev"></a>
+						<a href="javascript:void(0);" class="gallery_next btns next"></a>
+					</div>
+				</div>
+			</div>
+
+			<div id="NIE-copyRight">
+<style type="text/css">
+	.nie-copyright-new-inner {
+		width: 1024px;
+		text-align: left;
+		margin: 0 auto;
+		padding: 15px 0 10px;
+		font-size: 12px;
+		line-height: 20px;
+	}
+
+	.nie-copyright-new-inner .nie-cn-logo {
+		display: inline-block;
+		vertical-align: middle;
+		height: 48px;
+		min-width: 300px
+	}
+
+	.nie-copyright-new-inner .nie-cn-logo a {
+		display: inline-block;
+		vertical-align: top;
+		margin-top: 2px;
+	}
+
+	.nie-copyright-new-inner .nie-cn-logo a.a0 img {
+		padding-right: 0
+	}
+
+	.nie-copyright-new-inner .nie-cn-logo img {
+		padding-right: 15px;
+		padding-top: 5px;
+		border: 0;
+		vertical-align: middle;
+	}
+
+	.nie-copyright-new-inner .nie-cn-nav {
+		display: inline-block;
+		vertical-align: top;
+		position: relative;
+		z-index: 1;
+	}
+
+	.nie-copyright-new-inner .nie-cn-nav i {
+		font-style: normal
+	}
+
+	.nie-copyright-new-inner .nie-cn-nav i.nie-cn-nav-i2 {
+		height: 28px;
+		line-height: 28px;
+		text-align: left;
+	}
+
+	.nie-copyright-new-inner .nie-cn-nav a {
+		text-decoration: none
+	}
+
+	.nie-copyright-new-inner .nie-cn-nav a:hover {
+		text-decoration: underline
+	}
+
+	.nie-copyright-new-inner .nie-cn-nav .nie-cn-reportcenter {
+		padding-left: 18px;
+		font-style: normal;
+	}
+
+	.nie-copyright-new-inner .nie-cn-nav a.nie-cn-guardianship {
+		display: inline-block;
+		color: #fff;
+		background-color: #610000;
+		position: absolute;
+		z-index: 2;
+		right: 0;
+		height: 26px;
+		line-height: 26px;
+		padding: 0 3px;
+		top: 21px
+	}
+
+	#NIE-copyRight a.nie-cn-guardianship {
+		color: #fff;
+	}
+
+	.nie-copyright-new-inner .nie-cn-part2 {
+		padding-top: 10px;
+		line-height: 24px
+	}
+
+	.nie-copyright-new-inner .nie-cn-part2 a {
+		text-decoration: none;
+		display: inline-block;
+		vertical-align: top
+	}
+
+	.nie-copyright-new-inner .nie-cn-part2 a:hover {
+		text-decoration: underline
+	}
+
+	.nie-copyright-new-inner .nie-cn-part2 span {
+		display: inline-block;
+		vertical-align: top;
+	}
+
+	.nie-cn-part2 a img {
+		vertical-align: top
+	}
+</style>
+
+<div class="nie-copyright-new-inner">
+	<div class="nie-cn-part1">
+		<span class="nie-cn-logo">
+			<a class="a0" href="http://www.163.com/" target="_blank"><img src="./我的世界Minecraft中国版官方网站——你想玩的，这里都有_files/netease.2.png"></a><a class="a1" href="http://game.163.com/" target="_blank"><img src="./我的世界Minecraft中国版官方网站——你想玩的，这里都有_files/nie.2.png"></a>
+		</span>
+		<span class="nie-cn-nav">
+			<i class="nie-cn-nav-i1">
+				<a href="http://gb.corp.163.com/gb/about/overview.html" target="_blank">公司简介</a> - <a href="http://help.163.com/" target="_blank">客户服务</a> - <a href="https://unisdk.update.netease.com/html/latest_v90.html" target="_blank">网易游戏隐私政策及儿童个人信息保护规则</a> - <a href="http://game.163.com/about/" target="_blank">网易游戏</a> - <a href="http://game.163.com/contact/" target="_blank">联系我们</a> - <a href="http://game.163.com/contact/business.html" target="_blank">商务合作</a> - <a href="http://hr.game.163.com/index.html" target="_blank">加入我们</a> - <a href="http://update.unisdk.163.com/html/latest_v5.html" target="_blank">用户协议</a>
+			</i>
+			<br>
+			<i class="nie-cn-nav-i2">
+				网易公司版权所有 ©1997-2022 <a class="nie-cn-guardianship" href="https://jiazhang.gm.163.com/" target="_blank">点击查看家长关爱平台 &gt; </a>
+			</i>
+			&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://game.163.com/fcm/" target="_blank" class="nie-cn-nav-i2">网络游戏行业防沉迷自律公约</a>
+		</span>
+	</div>
+	<div class="nie-cn-part2"><p>Minecraft是Microsoft旗下Mojang开发的3D沙盒游戏，电脑端及手机端版本在中国大陆由网易游戏运营</p><p>积极健康的游戏心态是健康游戏的开端，本游戏故事情节设置紧凑，请您合理控制游戏时间，避免沉溺游戏影响生活，注意自我保护，防范网络陷阱。</p><span>《网络文化经营许可证》</span> <span>《网络游戏管理暂行办法》</span> <span>沪网文[2016]3825-278号</span> <span>ISBN 978-7-7979-8877-3</span> <span>文网游进字〔2017〕0072 号（端游）</span> <span>文网游进字〔2017〕0074 号 （手游）</span> <a href="https://game.16163.com/report/" target="_blank">违法及不良信息举报中心</a> <a href="https://beian.miit.gov.cn/" target="_blank">ICP备案：粤B2-20090191-18</a> </div><div class="nie-cn-part3"><span>本游戏适合8岁以上年龄段玩家</span></div>
+</div>
+</div>
+		</div>
+		
+		<!--遮罩层-->
+		<div class="Layer"></div>
+		<!--直播弹层-->
+		<div class="popLive">
+			<a href="javascript:;" class="btnClose" title="关闭"></a>
+			<h2>《我的世界》全球嘉年华</h2>
+			<p>直播时间：9月29日 23:30 - 9月30日 2:00</p>
+			<div class="videoWrap" id="live">
+				<!--<img src="https://mc.res.netease.com/pc/fab/20171220151954/img/live/video_dbcca55.png" alt="video"/>-->
+			</div>
+		</div>
+
+		<!-- 左侧扫码下载 -->
+		<div class="pop-download nie-download" pub-name="下载参数" id="js_nie_download2" data-download="mc|gwnew">
+			<div class="download-qrcode NIE-qrcode">
+				<div class="qrcode-scan"></div>
+			<img src="./我的世界Minecraft中国版官方网站——你想玩的，这里都有_files/qr"></div>
+			<div class="download-buttons buttons">
+				<a class="link-apple button-ios NIE-button-ios" title="App Store下载" target="_blank" href="https://adl.netease.com/d/g/mc/c/gwnew?type=ios">App Store下载</a>
+				<a class="link-android button-android NIE-button-android" title="安卓版下载" target="_blank" href="https://adl.netease.com/d/g/mc/c/gwnew?type=android">安卓版下载</a>
+			</div>
+			<p class="btn-register">注册网易通行证</p>
+			<div class="btn-downloadClose"></div>
+		</div>
+
+		<!-- 右侧大神窗口 -->
+		<div class="dashen-download">
+			<div class="qrBox">
+				<img src="./我的世界Minecraft中国版官方网站——你想玩的，这里都有_files/dsQr_30ce72a.png" alt="网易大神">
+				<div class="qrcode-scan"></div>
+			</div>
+			
+			<span>扫码下载网易大神</span>
+			<div class="btn-dsdownloadClose"></div>
+		</div>
+
+		<div class="pop-video">
+			<div class="videoBg"></div>
+			<div class="videoClose"></div>
+			<div class="videoWrap"></div>
+		</div>
+
+		<!-- <div id="order_pop">预约弹窗
+<div class="orderpop_container">
+<div class="wrapper">
+<a class="btn_close close_order_pop" title="关闭按钮"></a>
+<dl class="order_form">
+<dt></dt>
+<dd>
+<input type="tel" class="tel_input" maxlength="11" placeholder="请输入手机号">
+</dd>
+<dd class="qrcode_part">
+<input type="num" class="qrcode_input" placeholder="请输入验证码">
+<a href="javascript:void(0);" class="get_qrcode" title="获取验证码">获取验证码</a>
+</dd>
+<dd>
+<a href="javascript:void(0);" class="submit_order" title="立即预约">立即预约</a>
+</dd>
+<dd class="order_line"></dd>
+<dd class="reg_into">
+<a href="javascript:;" class="reg_btn2" title="注册网易通行证">注册网易通行证</a>
+<p>立即注册网易通行证，<br>未来快速登录游戏</p>
+</dd>
+</dl>
+</div>
+</div>
+</div> -->
+
+		<div class="activity_pop" id="activity_pop">
+			<div class="activityPopMian">
+				<a class="activity_close" href="javascript:;"></a>
+				<div class="act-txt act-txt01">
+					<span class="act-pop-tit act-pop-tit01">五一转转乐</span>
+					<p class="act-pop-desc act-pop-desc01">
+						<img alt="抖音" src="./我的世界Minecraft中国版官方网站——你想玩的，这里都有_files/qr(1)" width="244">
+					</p>
+				</div>
+				<div class="act-txt act-txt02">
+					<span class="act-pop-tit act-pop-tit02">狂欢短视频</span>
+					<p class="act-pop-desc act-pop-desc02">
+						<span>
+						<img alt="抖音" src="./我的世界Minecraft中国版官方网站——你想玩的，这里都有_files/ewm-douyin_c117e43.png" width="200">
+						<br>抖音</span>
+						<span>
+						<img alt="快手" src="./我的世界Minecraft中国版官方网站——你想玩的，这里都有_files/ewm-kuaishou_1a94501.png" width="200">
+						<br>快手</span>
+					</p>
+				</div>
+				<div class="act-txt act-txt03">
+					<span class="act-pop-tit">创造者计划</span>
+					<p class="act-pop-desc  act-pop-desc03">我们说，方即是正义
+						<br>我们说，存在即可方
+						<br>在我的世界里，万物都能方起来
+						<br>就是现在，打开你的脑洞
+						<br>来Bilibili，玩一次最“方”的创意Battle！~( ゜▽゜)つロ
+						<br>再顺手带走一台iPhone X ！</p>
+				</div>
+				<div class="act-txt act-txt04">
+					<span class="act-pop-tit">探索梦世界</span>
+					<p class="act-pop-desc act-pop-desc01">
+						<img alt="抖音" src="./我的世界Minecraft中国版官方网站——你想玩的，这里都有_files/qr(1)" width="244">
+					</p>
+				</div>
+				<div class="act-txt act-txt05">
+					<span class="act-pop-tit">一块Hypixel</span>
+					<p class="act-pop-desc">Hypxiel圣诞更新开启冬季礼包，全新的地图皮肤，主播与你一起high翻圣诞，享受游戏的新鲜，赢取圣诞礼包。</p>
+				</div>
+				<div class="act-txt act-txt06">
+					<span class="act-pop-tit">嘘！来鱼了！</span>
+					<p class="act-pop-desc act-pop-desc01">
+						<img alt="抖音" src="./我的世界Minecraft中国版官方网站——你想玩的，这里都有_files/ewm-5-xy_8539ae2.png" width="244">
+					</p>
+				</div>
+			</div>
+		</div>
+
+		<div class="dialog" id="dialog-reg">
+			<!--注册弹窗-->
+			<div class="dialog-wrap">
+				<a class="dialog-close" href="javascript:;" title="关闭按钮"></a>
+				<div class="dialog-title"></div>
+				<div id="register-module" style="width: 390px; height: 252px;"><iframe frameborder="0" id="register-module-iframe" scrolling="no" style="width: 100%; height: 100%; border: none; background: none;" src="./我的世界Minecraft中国版官方网站——你想玩的，这里都有_files/urs-base.html"></iframe></div>
+			</div>
+		</div>
+
+		<!-- 适龄弹窗 -->
+		<div class="popup">
+			<div class="age_box">
+				<p>1、本游戏是一款3D沙盒游戏，适用于年满8周岁及以上的用户，建议未成年人在家长监护下使用游戏产品。我们鼓励家长根据未成年人的实际情况管理其游戏行为，家长可以登录“网易家长关爱平台”（<a href="https://jiazhang.gm.163.com/" target="_blank">https://jiazhang.gm.163.com/</a>）进行设置。</p>
+				<p>2、玩家在游戏内可以与世界、生物、物品交互，探索随机生成的世界，根据自己的想法建造建筑。玩家可以独自游玩，也可以通过文字、语音与其他玩家沟通，一起游玩。</p>
+				<p>
+					3、本游戏中有用户实名认证系统，未实名账号不能登录游戏。认证为未成年人的用户将接受以下管理：<br>
+					游戏中资源中心和平台服务需要付费，未满8周岁的用户不能付费；8周岁以上未满16周岁的未成年人用户，单次充值金额不得超过50元人民币，每月充值金额累计不得超过200元人民币；16周岁以上的未成年人用户，单次充值金额不得超过100元人民币，每月充值金额累计不得超过400元人民币。
+					<br>
+            		未成年玩家可在周五、周六、周日和法定节假日每日晚20时至21时登录游戏，其他时间无法登录游戏。
+				</p>
+				<p>4、本游戏以自由创造为主题，玩家可以探索随机生成的世界，搭建或精巧或宏伟的建筑，甚至打造属于自己的游戏。《我的世界》不仅培养玩家创造力与想象力，也是面向青少年进行历史文化推广，知识科普的互动载体。</p>
+				<a class="close" href="javascript:;" title="关闭"></a>
+			</div>
+		</div>	
+
+
+		<script language="JavaScript">document.write('<iframe  src="https://gad.netease.com/mmad/point?point_id=13081&s=ArWrXz3aNbKpi4YgmpTRtknhZiQ%3D" width="0" height="0" style=\'display:none\' frameborder="0"></iframe>');</script><iframe src="./我的世界Minecraft中国版官方网站——你想玩的，这里都有_files/point.html" width="0" height="0" style="display:none" frameborder="0"></iframe>
+		<script src="./我的世界Minecraft中国版官方网站——你想玩的，这里都有_files/jquery(mixNIE).1.11.js"></script>
+		<script charset="utf-8" src="./我的世界Minecraft中国版官方网站——你想玩的，这里都有_files/jquery.parallax.js"></script>
+		<script src="./我的世界Minecraft中国版官方网站——你想玩的，这里都有_files/common_835ab5f.js"></script>
+		<script src="./我的世界Minecraft中国版官方网站——你想玩的，这里都有_files/galleryV2_b6073d3.js"></script>
+		<script src="./我的世界Minecraft中国版官方网站——你想玩的，这里都有_files/index_5529423.js"></script>
+
+		<script type="text/javascript" src="./我的世界Minecraft中国版官方网站——你想玩的，这里都有_files/mc_client_ver.js"></script>
+
+		<script type="text/javascript">$("#scene").parallax();</script>
+	
+
+
+<!--This is Git Project From MC/mc-zt-fab-20171220(7595)-->
+<!--This is Git Project From MC/mc-gw-pc-3d-20170623(6296)--><div class="netease-tips" id="_js_neteaes_tips" style="position: fixed;width: 100%;height: 0;left: 0;bottom: 0;overflow: hidden;z-index: 1000000!important;;height: 45px;">                        <div style="position: relative;zoom: 1;width: 950px;margin: 0 auto;height: 45px;background: #cf1132;text-align: center;zoom: 1;">                            <a href="javascript:;" style="position: absolute;right: 15px;top: 10px;font-size: 18px;color: #fff;">×</a>                            <p style="margin: 0;padding: 0;line-height: 45px;color: #fff;font-size: 18px;">您所访问的网页内容被缩放可能影响正常使用，可以使用键盘快捷键 <span style="text-decoration: underline!important;">Ctrl</span> 和 <span style="text-decoration: underline!important;">0</span> 恢复正常。</p>                        </div>                    </div></body></html>
