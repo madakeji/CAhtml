@@ -5,11 +5,11 @@ function Main0()
 SN = gg.choice({
 	 "无限子弹(30子弹开)",
 	 "枪械上色",
+	 "超广角",
 	 "无限手雷",
-	 "无限手雷{极速版}",
 	 "遁地",
 	 "上帝视角",
-}, nil, "V0.5版本\n本辅助100%原创，解密司马开源司马")
+}, nil, "版本号:V0.8\n本辅助100%原创，解密司马开源司马")
 if SN==1 then
 	 HS1()
 end
@@ -54,21 +54,10 @@ end
 
 function HS3()
 gg.setRanges(32)
-gg.searchNumber(1,  gg.TYPE_DWORD,false,gg.SIGN_EQUAL,0, -1)
-gg.alert("请扔出手雷，您只有3s时间！")
-gg.sleep(3000)
-gg.searchNumber(0, gg.TYPE_DWORD,false,gg.SIGN_EQUAL,0, -1)
-gg.alert("请把自己弄死，您只有20s时间！")
-gg.sleep(20000)
-gg.searchNumber(1, gg.TYPE_DWORD,false,gg.SIGN_EQUAL,0, -1)
-gg.alert("请扔出手雷，您只有3s时间！")
-gg.sleep(3000)
-gg.searchNumber(0, gg.TYPE_DWORD,false,gg.SIGN_EQUAL,0, -1)
-gg.alert("最后一步:请把自己弄死，您有30s时间！")
-gg.sleep(30000)
-gg.searchNumber(1, gg.TYPE_DWORD,false,gg.SIGN_EQUAL,0, -1)
-gg.getResults(100000)
-gg.editAll("9999",gg.TYPE_DWORD)
+gg.searchNumber(10~60F,  gg.TYPE_FLOAT,false,gg.SIGN_EQUAL,0, -1)
+gg.searchNumber(10～60F, gg.TYPE_FLOAT,false,gg.SIGN_EQUAL,0, -1)
+gg.getResults(87900)
+gg.editAll("100",gg.TYPE_DWORD)
 gg.toast("开启成功")
 end
 
@@ -92,7 +81,7 @@ editData(
 },
 {
 --{["value"] = 9999[1] ,["offset"] =56, ["type"] = F,["freeze"] = false},
-{["value"] = 1315,["offset"] =12, ["type"] = D,["freeze"] = false},
+{["value"] = 9999,["offset"] =12, ["type"] = D,["freeze"] = false},
 --{["value"] = 9999[3],["offset"] =64, ["type"] = F,["freeze"] = false},
 }
 )
