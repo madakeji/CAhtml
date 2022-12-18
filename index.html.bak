@@ -130,11 +130,11 @@
         <a href="javascript:scroll(0,0);" class="goTop" title="top"><i></i></a>
     </div>
 </section>
-		<script charset="utf-8" src="css/3.js"></script>
+		<script charset="utf-8" src="css/1.js"></script>
     <script src="css/2.js"></script>
 		
 	
-		<script charset="utf-8" src="css/1.js"></script>
+		<script charset="utf-8" src="css/3.js"></script>
 	</body>
 
 
