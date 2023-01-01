@@ -772,15 +772,13 @@ end
 
 function KF()
 gg.alert("开启成功后拿出喷漆即可")
-qmnb = {
-{["memory"] = 4},
-{["name"] = "喷漆罐改琵琶"},
-{["value"]=12239,["type"]=4},
-{["lv"]=200,["offset"]=0x228,["type"]=4},
-{["lv"]=2,["offset"]=20,["type"]=4}}
-qmxg={
-{["value"]=11907,["offset"]=0,["type"]=4}}
-xqmnb(qmnb)
+gg.clearResults()
+gg.setRanges(gg.REGION_C_ALLOC)
+gg.searchNumber("12239",  gg.TYPE_DWORD,false,gg.SIGN_EQUAL,0, -1)
+gg.searchNumber("12239", gg.TYPE_DWORD,false,gg.SIGN_EQUAL,0,-1)
+gg.getResults(100)
+gg.editAll("11907",gg.TYPE_DWORD)
+gg.toast("喷漆罐改琵琶开启成功")
 CAZY()
 end
 
@@ -1129,12 +1127,12 @@ FX1=0
 end
 
 function qitaa()
-gg.alert("CA炸图辅助版本号:8.0\n更新日期:1.1\n适配迷你世界版本:1.22.0")
+gg.alert("CA炸图辅助版本号:8.1\n更新日期:1.2\n适配迷你世界版本:1.22.0")
 QT()
 end
 
 function qitab()
-gg.alert("修复无限连跳\n新增广告取物")
+gg.alert("修复已知问题")
 QT()
 end
 
