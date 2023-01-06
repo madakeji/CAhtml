@@ -512,32 +512,13 @@ SJ = os.date("%Y年%m月%d日%H时%M分")
 menu = gg.choice({
 	 "开始炸图",
 	 "退出炸图",
-	 "防闪退",
-     "清理冻结数据",
-}, nil, "★当前时间:"..SJ.."★\n★版本号:V8.0★")
+}, nil, "★当前时间:"..SJ.."★\n★版本号:V8.5★\n纯净简约，始终如一")
 if menu == 1 then CAZY() end
 if menu == 2 then TC() end
 if menu == 3 then FS() end
-if menu == 5 then DDR() end
 FX1=0
 end
 
-function DJ()
-gg.clearList()
-gg.toast("清理完成")
-end
-
-function DDR()  
-local t = {"libtersafe2.so:bss", "Cb"}
-local tt = {0x788}
-local ttt = S_Pointer(t, tt, true)
-gg.setValues({{address = ttt, flags = 4, value = 0}})
-local t = {"libtersafe2.so:bss", "Cb"}
-local tt = {0x78C}
-local ttt = S_Pointer(t, tt, true)
-gg.setValues({{address = ttt, flags = 4, value = 0}})
-gg.toast("防检测开启成功")
-end
 ------第二菜单
 function CAZY()
 menu = gg.choice({
@@ -662,12 +643,13 @@ function CZCA()
 menu = gg.choice({
      "瓶装牛奶改球体",
 	 "生牛排改黑龙火球",
-	 "失效",
+	 "烤牛排改远古巨人",
 	 "香溢蔬菜煲改卡图道具",
 	 "香溢薯条改黑龙",
 	 "召唤虚空幻影1",
 	 "召唤虚空幻影2",
 	 "召唤虚空幻影3",
+	 "烤羊腿改驯服的叮叮",
 	 "返回上一页",
 }, nil, "稳定性大大提升")
 if menu == 1 then ZT1() end
@@ -678,7 +660,8 @@ if menu == 5 then ZT5() end
 if menu == 6 then ZT6() end
 if menu == 7 then ZT7() end
 if menu == 8 then ZT8() end
-if menu == 9 then CA1() end
+if menu == 9 then ZT9() end
+if menu == 10 then CA1() end
 FX1=0
 end
 
@@ -710,8 +693,8 @@ gg.setRanges(gg.REGION_C_ALLOC)
 gg.searchNumber("12517",  gg.TYPE_DWORD,false,gg.SIGN_EQUAL,0, -1)
 gg.searchNumber("12517", gg.TYPE_DWORD,false,gg.SIGN_EQUAL,0,-1)
 gg.getResults(100)
-gg.editAll("100094",gg.TYPE_DWORD)
-gg.toast("烤牛排改boss开启成功")
+gg.editAll("13514",gg.TYPE_DWORD)
+gg.toast("烤牛排改远古巨人开启成功")
 CAZY()
 end
 
@@ -767,6 +750,17 @@ gg.searchNumber("11003", gg.TYPE_DWORD,false,gg.SIGN_EQUAL,0,-1)
 gg.getResults(100)
 gg.editAll("142",gg.TYPE_DWORD)
 gg.toast("召唤虚空幻影第3步开启成功")
+CAZY()
+end
+
+function ZT9()
+gg.clearResults()
+gg.setRanges(gg.REGION_C_ALLOC)
+gg.searchNumber("64012",  gg.TYPE_DWORD,false,gg.SIGN_EQUAL,0, -1)
+gg.searchNumber("64012", gg.TYPE_DWORD,false,gg.SIGN_EQUAL,0,-1)
+gg.getResults(100)
+gg.editAll("13436",gg.TYPE_DWORD)
+gg.toast("烤羊腿改驯服的当当开启成功")
 CAZY()
 end
 
@@ -1017,7 +1011,7 @@ menu = gg.choice({
 	 "狙击枪无后座连发",
 	 "秒换子弹",
 	 "返回上一页",
-}, nil, "以用户体验为基准")
+}, nil, "依旧稳定输出...")
 if menu == 1 then V1() end
 if menu == 2 then V2() end
 if menu == 3 then CA1() end
@@ -1048,7 +1042,7 @@ menu = gg.choice({
      "伪房主[开]",
      "卡闪房主",
 	 "返回上一页",
-}, nil, "以用户体验为基准")
+}, nil, "卡闪房主失效待修复")
 if menu == 1 then LD1() end
 if menu == 2 then LD2() end
 if menu == 3 then LD3() end
@@ -1119,7 +1113,7 @@ menu = gg.choice({
 "版本信息",
 "更新日志",
 "返回上一页",
-}, nil, "以用户体验为基准")
+}, nil, "CA.ZHATU.CLUB")
 if menu == 1 then qitaa() end
 if menu == 2 then qitab() end
 if menu == 3 then CA1() end
@@ -1127,12 +1121,12 @@ FX1=0
 end
 
 function qitaa()
-gg.alert("CA炸图辅助版本号:8.1\n更新日期:1.2\n适配迷你世界版本:1.22.0")
+gg.alert("CA炸图辅助版本号:8.5\n更新日期:1.6\n适配迷你世界版本:1.22.0")
 QT()
 end
 
 function qitab()
-gg.alert("修复已知问题")
+gg.alert("新增突刺长枪改驯服的当当，烤牛排改远古巨人")
 QT()
 end
 
